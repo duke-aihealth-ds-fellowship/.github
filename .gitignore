@@ -1,0 +1,9 @@
+# Ignore all files with .tmp extension
+*.tmp
+
+# Ignore sync-related metadata
+.DS_Store
+
+# Ignore
+1_toolbox/
+2_projects/
