@@ -35,6 +35,7 @@ Below is a summary of the available sub-repositories and folders, each covering 
 | - 3.6 Transfer Learning |
 | - 3.7 Time-to-event (survival analysis) in pytorch |
 | - 3.8 Discrete Time Neural Survival Model |
+| - 3.9 Contrastive Learning |
 | [4. NLP](https://github.com/duke-aihealth-ds-fellowship/4-nlp) |
 | - 4.1 TF-IDF and Other Traditional NLP Methods |
 | - 4.2 Train tokenizers in HuggingFace |
@@ -59,9 +60,8 @@ Below is a summary of the available sub-repositories and folders, each covering 
 | [P3 Fusion protein design optimization: first steps towards a computational approach](https://github.com/duke-aihealth-ds-fellowship/fusion-protein-design-optimization) |
 | [P4 ABCD - Forecasting adolescent mental health](https://github.com/duke-aihealth-ds-fellowship/abcd-forecasting-adolescent-mental-health) |
 | [P5 Longitudinal EHR-based ADHD/autism prediction](https://github.com/duke-aihealth-ds-fellowship/longitudinal-ehr-based-adhd-autism-prediction) |
-| [P6 Majority-Guided Variational Autoencoder](https://github.com/duke-aihealth-ds-fellowship/mgvae) |
-| [P7 Longitudinal Missingness Embedding (TF/Keras)]
-(https://github.com/duke-aihealth-ds-fellowship/longitudinal-missingness-embedding) |
+| [P6 Majority-Guided Variational Autoencoder](https://github.com/duke-aihealth-ds-fellowship/majority-guided-vae) |
+| [P7 Longitudinal Missingness Embedding (TF/Keras)](https://github.com/duke-aihealth-ds-fellowship/longitudinal-missingness-embedding) |
 
 
 
