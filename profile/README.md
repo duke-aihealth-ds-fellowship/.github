@@ -15,36 +15,34 @@ Below is a summary of the available sub-repositories and folders, each covering 
 | [1. Feature engineering](https://github.com/duke-aihealth-ds-fellowship/1-feature-engineering) |	|
 | - 1.1 Demographics (sex, race-eth, payer, encounter type, etc.) |	|
 | - 1.2 Diagnosis and Procedure codes to CCS |	|
-| - 1.3 Diagnosis and Procedure codes to embeddings | P1 |
-| - 1.4 Vital signs | P1 |
+| - 1.3 Diagnosis and Procedure codes to embeddings | [P1](https://github.com/duke-aihealth-ds-fellowship/conditional-multilabel-model) |
+| - 1.4 Vital signs | [P1](https://github.com/duke-aihealth-ds-fellowship/conditional-multilabel-model) |
 | - 1.5 Lab results |	|
 | - 1.6 Medications |	|
 | - 1.7 Doctor notes |	|
 | [2. Data processing and simulation techniques](https://github.com/duke-aihealth-ds-fellowship/2-data-processing) |	|
 | - 2.1 Common Pipeline (normalization, etc.) |	|
-| - 2.2 Handling Missing Data (imputation techniques) | P7 |
+| - 2.2 Handling Missing Data (imputation techniques) | [P7](https://github.com/duke-aihealth-ds-fellowship/longitudinal-missingness-embedding) |
 | - 2.3 Sampling Methods for Imbalanced Data |
-| - 2.4 Structured Data Simulation | P1 |
+| - 2.4 Structured Data Simulation | [P1](https://github.com/duke-aihealth-ds-fellowship/conditional-multilabel-model) |
 | - 2.5 Observability Estimation |	|
-| - 2.6 Formatting Sequence Data in Pytorch |	|
+| - 2.6 Formatting Sequence Data in Pytorch | [7](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) |
 | [3. Modeling](https://github.com/duke-aihealth-ds-fellowship/3-modeling) |	|
-| - 3.1 Hyperparameter tuning (Optuna) |	|
-| - 3.2 Multi-Label Classification Tutorial |	|
-| - 3.3 Multi-Label Classification V2|	|
-| - 3.4 Conditional Multi-Label Classification | P1 |
-| - 3.5 Pytorch Embedding Models |	|
-| - 3.6 Transfer Learning |	|
-| - 3.7 Time-to-event (Survival Analysis) in Pytorch |	|
-| - 3.8 Discrete Time Neural Survival Model |	|
-| - 3.9 Contrastive Learning |	|
+| - 3.1 Hyperparameter tuning (Optuna) | [7](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) |
+| - 3.2 Pytorch Embedding Models | [7](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) |
+| - 3.3 Multi-Label Classification Tutorial |	|
+| - 3.4 Conditional Multi-Label Classification | [P1](https://github.com/duke-aihealth-ds-fellowship/conditional-multilabel-model) |
+| - 3.5 Discrete Time Neural Survival Model |	|
+| - 3.6 Contrastive Learning |	|
+| - 3.7 Transfer Learning |	|
 | [4. NLP](https://github.com/duke-aihealth-ds-fellowship/4-nlp) |	|
 | - 4.1 TF-IDF and Other Traditional NLP Methods |	|
 | - 4.2 Train Tokenizers in HuggingFace |	|
 | - 4.3 Pretraining a HuggingFace Model |	|
 | - 4.4 LLM (GPT, BERT) Finetuning and Prediction |	|
 | [5. Model evaluation](https://github.com/duke-aihealth-ds-fellowship/5-model-evaluation) |	|
-| - 5.1 Common metrics, e.g., AUC, AP, ROC, PR |	|
-| - 5.2 Bootstrapping |	|
+| - 5.1 Common metrics, e.g., AUC, AP, ROC, PR | [7](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) |
+| - 5.2 Bootstrapping |	[7](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) |
 | - 5.3 Stratifying Metrics by Subsets |	|
 | - 5.4 Forest plots |	|
 | [6. Feature importance](https://github.com/duke-aihealth-ds-fellowship/6-feature-importance) |	|
