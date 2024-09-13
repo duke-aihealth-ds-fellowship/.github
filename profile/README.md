@@ -9,9 +9,9 @@ Below is a summary of the available sub-repositories and folders, each covering 
 
 ## Part I: Data Science/AI Tools
 
-| Title                                                         | Referenced project |
+| Title                                                         | Reference project |
 |---------------------------------------------------------------|--------------------|
-| [0. Best practice](https://github.com/duke-aihealth-ds-fellowship/0-best-practice) |
+| [0. Best practice](https://github.com/duke-aihealth-ds-fellowship/best-practice) |
 | [1. Feature engineering](https://github.com/duke-aihealth-ds-fellowship/1-feature-engineering) |	|
 | - 1.1 Demographics (sex, race-eth, payer, encounter type, etc.) |	|
 | - 1.2 Diagnosis and Procedure codes to CCS |	|
