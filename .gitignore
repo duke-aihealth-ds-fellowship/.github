@@ -4,6 +4,6 @@
 # Ignore sync-related metadata
 .DS_Store
 
-# Ignore
+# Ignore the following folders
 1_toolbox/
 2_projects/
