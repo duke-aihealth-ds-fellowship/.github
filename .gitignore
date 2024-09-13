@@ -1,6 +1,7 @@
 # Ignore all files with .tmp extension or start with tilda
 *.tmp
 ~*
+/~*
 
 # Ignore sync-related metadata
 .DS_Store
